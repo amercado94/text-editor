@@ -6,5 +6,8 @@ I debugged this text editor to make sure it can properly deploy. This text edito
 ## Website Screenshot
 ![Screenshot of my webpage featuring a search for Dallas' weather. Including a 5 day forecast.](<assets/images/textEditorSS.png>)
 
+## Deployed Link
+https://dry-gorge-70598-689356abdda6.herokuapp.com 
+
 ## Questions
 Please send your questions [here](mailto:AlfredoMercado1994@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/amercado94](https://github.com/amercado94)
